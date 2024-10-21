@@ -49,7 +49,7 @@ Host your own instance of the api on heroku using the button below.
 ### Render
 Host your own instance of the api on render using the button below.
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/warlordsnet/zia-api)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/qubit-quantam/zia-api)
 
 ### Railway
 Host your own instance of the api on railway using the button below.
