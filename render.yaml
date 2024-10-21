@@ -4,7 +4,7 @@ services:
     repo: https://github.com/qubit-quantam/zia-api.git  # Update with your GitHub username
     plan: free
     branch: main
-    runtime: node:20  # Specify Node.js version
+    runtime: node  # Specify Node.js version
     startCommand: node lib/api.js  # This is the command to start your API
     buildCommand: yarn  # This ensures all dependencies are installed
 
